@@ -26,16 +26,17 @@ I focus on building **robust, scalable, and data-driven solutions** through acad
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="[https://facebook.com/your-profile" target="_blank"](https://www.facebook.com/md.maruf.hassan.shuvo.2024)>
+  <a href="https://www.facebook.com/md.maruf.hassan.shuvo.2024" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/your-profile" target="_blank](https://www.linkedin.com/in/maruf-hassan-shuvo-589aba398/)">
+  <a href="https://www.linkedin.com/in/maruf-hassan-shuvo-589aba398/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
@@ -80,7 +81,6 @@ I focus on building **robust, scalable, and data-driven solutions** through acad
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
