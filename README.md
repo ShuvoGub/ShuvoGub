@@ -10,9 +10,8 @@
 ---
 
 ## 👨‍💻 About Me
+A motivated Computer Science & Engineering undergraduate with a strong academic foundation and practical interest in Machine Learning, Artificial Intelligence,
 
-I am a dedicated **Computer Science & Engineering undergraduate** with a strong interest in  
-**Machine Learning, Artificial Intelligence, and Software Engineering**.
 
 I focus on building **robust, scalable, and data-driven solutions** through academic and practical projects.
 
