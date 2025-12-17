@@ -23,7 +23,6 @@ I focus on building **robust, scalable, and data-driven solutions** through acad
 
 ---
 
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
